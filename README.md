@@ -39,6 +39,8 @@ Energy
 Skewness
 Kurtosis
 Contrast
+
+
 9. Dataset Preprocessing
 Preprocess the dataset and add the manually estimated thresholds for each image.
 
