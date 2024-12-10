@@ -5,7 +5,7 @@ Dataset: MIAS "Mammographic Image Analysis Society"
 Dataset link: http://peipa.essex.ac.uk/info/mias.html
 
 For installing requirements:
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 
 Steps:
